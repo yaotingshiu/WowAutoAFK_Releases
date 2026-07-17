@@ -66,7 +66,11 @@ WowAutoAFK 是一款專為《魔獸世界》玩家設計的自動化輔助工具
 
 軟體截圖:
 <img width="389" height="380" alt="2026-07-17_170019" src="https://github.com/user-attachments/assets/9e638310-3947-4bec-899b-063b12592984" />
+
 <img width="388" height="379" alt="2026-07-17_170035" src="https://github.com/user-attachments/assets/41c782da-22e8-442c-a714-2bb66b1ed398" />
+
 <img width="387" height="379" alt="2026-07-17_170056" src="https://github.com/user-attachments/assets/b7503a98-32d2-4b5b-a69c-959d83bff93f" />
-<img width="387" height="376" alt="2026-07-17_170158" src="https://github.com/user-attachments/assets/ae9b8405-6d66-447d-a373-e0a8f934f5ae" />
+
+<img width="388" height="378" alt="2026-07-17_170525" src="https://github.com/user-attachments/assets/b7d9b00e-9d56-4e2d-96d6-6efb52c0ae58" />
+
 
