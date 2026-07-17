@@ -59,5 +59,6 @@ WowAutoAFK 是一款專為《魔獸世界》玩家設計的自動化輔助工具
 如果您覺得這款軟體對您有幫助，歡迎請我喝杯咖啡！您的支持是我持續更新與修復 Bug 的最大動力。
 
 [**點此透過 PayPal 贊助我**](https://www.paypal.com/ncp/payment/D7GSCCJEHTSFN)
-
+如果您有任何 Bug 回報、功能建議或是使用上的疑問，歡迎透過以下方式聯繫我：
+*   **Email:** [speed132454@gmail.com](mailto:speed132454@gmail.com)
 ---
