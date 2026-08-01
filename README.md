@@ -1,6 +1,6 @@
 # 🎣 WowAutoAFK (暫未開放下載)
 
-![Version](https://img.shields.io/badge/Version-1.0.3-blue.svg)
+![Version](https://img.shields.io/badge/Version-2.1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Closed_Source-red.svg)
 
