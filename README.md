@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Closed_Source-red.svg)
 
-WowAutoAFK 是一款專為《魔獸世界》玩家設計的自動化輔助工具[cite: 17]。本程式旨在協助玩家處理自動登入、掛機防斷等基本功能，以及自動釣魚，使玩家遊戲中更輕鬆地處理事務[cite: 17]。
+WowAutoAFK 是一款專為《魔獸世界》玩家設計的自動化輔助工具。本程式旨在協助玩家處理自動登入、掛機防斷等基本功能，以及自動釣魚，使玩家遊戲中更輕鬆地處理事務。
 
 透過極簡的現代化介面與深淺色主題，WowAutoAFK 提供最直覺的操作體驗，讓您告別繁瑣的重複性動作！
 
