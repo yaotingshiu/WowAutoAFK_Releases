@@ -1,0 +1,1 @@
+# WowAutoAFK_Releases
