@@ -5,7 +5,7 @@
 ![Framework](https://img.shields.io/badge/.NET-10.0-512BD4.svg)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C.svg)
 ![Status](https://img.shields.io/badge/Status-Closed_Source-red.svg)
-
+[**📥 點擊這裡下載：最新 WowAutoAFK (v2.1.0) 安裝檔**](https://github.com/yaotingshiu/WowAutoAFK_Releases/raw/refs/heads/main/WowAutoAFK%20installer.exe?download=)
 > 💻 **【系統環境需求】**
 > 本程式基於 **.NET 10** 框架開發。若您的電腦尚未安裝此環境，請無須擔心！
   首次開啟程式時，系統會自動跳出安全提示，並無縫引導您前往微軟官方完成一鍵下載與安裝。
