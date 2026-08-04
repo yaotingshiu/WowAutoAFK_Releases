@@ -98,11 +98,11 @@ WowAutoAFK 是一款專為《魔獸世界》玩家設計的自動化輔助工具
 ## 🎬 操作影片 (Demo)
 
 ### 介面功能展示
-<video src="https://github.com/user-attachments/assets/e224b1ff-d1a0-43bb-9073-375a22a931d0"></video>
+<video src="https://github.com/user-attachments/assets/680fd35b-023b-405b-8f8b-e20dc7274d1b"></video>
 
 <br><br>
 ### 懸浮窗功能
-<video src="https://github.com/user-attachments/assets/c493490a-dca2-4773-9c13-d577a110a1c2"></video>
+<video src="https://github.com/user-attachments/assets/58fb90f6-7d3d-44ac-b2bb-f9d6f5836a6a"></video>
 
 <br><br>
 *(因容量限制無法上傳更多高畫質內容，歡迎直接下載親自體驗！)*
