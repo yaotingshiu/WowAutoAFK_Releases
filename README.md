@@ -57,7 +57,7 @@ WowAutoAFK 是一款專為《魔獸世界》玩家設計的自動化輔助工具
 1.  前往「自動釣魚」分頁，設定對應遊戲內的拋竿快捷鍵。
 2.  點擊「截取浮標圖片」，畫面將進入截圖模式，請精準框選您的「釣魚浮標」。
     *(範例圖示如下)*<br>
-    <img width="83" height="84" alt="2026-07-17_162752" src="https://github.com/user-attachments/assets/75c26d5c-5c10-4055-8f77-8ffda55d092b" />
+    <img width="83" height="84" alt="2026-07-17_162752" src="https://github.com/user-attachments/assets/6162a579-a530-470b-bf27-82f4b1d3815e" />
 3.  調整釣魚時間模式（連續或定時）。
 4.  按下「釣魚快捷鍵」（預設 `Ctrl + F8`）正式啟動。
    
@@ -123,39 +123,31 @@ WowAutoAFK 是一款專為《魔獸世界》玩家設計的自動化輔助工具
 <details>
 <summary>點擊展開查看程式介面</summary>
 <br>
-
-<img width="507" height="395" alt="2026-08-04_025313" src="https://github.com/user-attachments/assets/37a16259-0e4f-4f77-9e95-fc30f99b9824" />
-
+<img width="410" height="333" alt="2026-08-04_025313" src="https://github.com/user-attachments/assets/862e2326-693c-456b-8086-987103e76db6" />
 <br><br>
-<img width="508" height="395" alt="2026-08-04_025657" src="https://github.com/user-attachments/assets/92c67147-38b0-4f08-aeb7-fc306e256bdd" />
-
+<img width="510" height="397" alt="2026-08-04_091020" src="https://github.com/user-attachments/assets/70be48f4-026a-4c12-9299-f59994ba563f" />
 <br><br>
-<img width="508" height="397" alt="2026-08-04_025731" src="https://github.com/user-attachments/assets/48f2c148-a6b7-459e-8d8d-60a9ab86c546" />
-
+<img width="509" height="397" alt="2026-08-04_091050" src="https://github.com/user-attachments/assets/088a795c-7d20-4db4-97a7-34c16d6ed09d" />
 <br><br>
-<img width="510" height="397" alt="2026-08-04_025827" src="https://github.com/user-attachments/assets/3d82a58e-d3cd-4657-8f78-24ab29c0bb09" />
+<img width="508" height="396" alt="2026-08-04_091121" src="https://github.com/user-attachments/assets/427e8bfb-a41c-4075-bd8d-9a79cd182c20" />
 <br><br>
-<img width="509" height="396" alt="2026-08-04_025937" src="https://github.com/user-attachments/assets/244c4d32-5ab8-49d4-b59a-9e730d333de7" />
-
+<img width="508" height="395" alt="2026-08-04_091155" src="https://github.com/user-attachments/assets/f8191cff-aaa0-42c5-bd39-0273af0e5cdf" />
 <br><br>
-<img width="387" height="314" alt="2026-08-04_030002" src="https://github.com/user-attachments/assets/c3c7bb61-0e62-4f0b-abe5-ca2dc048427b" />
-
+<img width="508" height="396" alt="2026-08-04_091252" src="https://github.com/user-attachments/assets/1b1fc8cb-bce6-4565-8f3f-367d08b16067" />
 <br><br>
-<img width="508" height="395" alt="2026-08-04_030049" src="https://github.com/user-attachments/assets/76c33531-2b88-4eb4-a9c9-22fb6cc6445a" />
-
+<img width="508" height="395" alt="2026-08-04_091317" src="https://github.com/user-attachments/assets/3c6ee0e8-34cb-4546-8475-d71bc48f6f81" />
 <br><br>
-<img width="508" height="395" alt="2026-08-04_030107" src="https://github.com/user-attachments/assets/f3c8d909-ed50-44db-a4f5-e74a80ae4cb9" />
-
+<img width="508" height="395" alt="2026-08-04_091349" src="https://github.com/user-attachments/assets/4bad01cd-9730-4af7-88aa-672cdd3d6a67" />
 <br><br>
-<img width="248" height="436" alt="2026-08-04_030204" src="https://github.com/user-attachments/assets/e4af4b07-d918-404d-ac93-b9e3917e1f6c" />
-
+<img width="508" height="395" alt="2026-08-04_091415" src="https://github.com/user-attachments/assets/ce4cd748-6dc1-43c9-9aef-f5bd52298ead" />
 <br><br>
-<img width="510" height="397" alt="2026-08-04_030249" src="https://github.com/user-attachments/assets/b62a3f24-fdaf-4ebf-aaac-c7afbd4d8dba" />
-
+<img width="508" height="395" alt="2026-08-04_091452" src="https://github.com/user-attachments/assets/a0cff961-8723-4f7e-8fba-3ea584ac8728" />
 <br><br>
-<img width="510" height="397" alt="2026-08-04_030333" src="https://github.com/user-attachments/assets/e34f9ae9-cb9d-4cb2-9475-834573fe4e21" />
-
+<img width="508" height="395" alt="2026-08-04_091510" src="https://github.com/user-attachments/assets/655bfe68-3b52-4f7c-ab54-184349a654fa" />
 <br><br>
-<img width="234" height="438" alt="2026-08-04_030427" src="https://github.com/user-attachments/assets/9e59c22b-e817-4c5b-82f8-6cdd5d1ebecc" />
-
+<img width="231" height="438" alt="2026-08-04_091634" src="https://github.com/user-attachments/assets/59c69750-59e4-41d3-9bc5-dec7b2081160" />
+<br><br>
+<img width="233" height="438" alt="2026-08-04_091658" src="https://github.com/user-attachments/assets/545a6a43-971e-4174-b122-5bc726595315" />
+<br><br>
+<img width="253" height="113" alt="2026-08-04_091733" src="https://github.com/user-attachments/assets/cafe9492-64e0-4b16-8037-805349f8a9c7" />
 </details>
