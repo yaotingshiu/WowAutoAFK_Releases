@@ -1,4 +1,4 @@
-# 🎣 WowAutoAFK (暫未開放下載)
+# 🎣 WowAutoAFK (魔獸世界輔助工具)
 
 ![Version](https://img.shields.io/badge/Version-2.1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
