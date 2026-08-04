@@ -8,8 +8,8 @@
 
 ### 💻 系統支援度 (Supported OS)
 <br><br>
-✅ **Windows 10 及以上版本** (包含 Windows 11)
-❌ **macOS**
+✅ **Windows 10 及以上版本** (包含 Windows 11)<br>
+❌ **macOS**<br>
 ❌ **Linux**
 <br><br>
 [**📥 點擊這裡下載：最新 WowAutoAFK (v2.1.0) 安裝檔**](https://github.com/yaotingshiu/WowAutoAFK_Releases/raw/refs/heads/main/WowAutoAFK%20installer.exe?download=)<br><br>
