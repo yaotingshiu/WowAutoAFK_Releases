@@ -4,12 +4,12 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Framework](https://img.shields.io/badge/.NET-10.0-512BD4.svg)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C.svg)
-![Status](https://img.shields.io/badge/Status-Closed_Source-red.svg)
-[**📥 點擊這裡下載：最新 WowAutoAFK (v2.1.0) 安裝檔**](https://github.com/yaotingshiu/WowAutoAFK_Releases/raw/refs/heads/main/WowAutoAFK%20installer.exe?download=)
+![Status](https://img.shields.io/badge/Status-Closed_Source-red.svg)<br><br>
+[**📥 點擊這裡下載：最新 WowAutoAFK (v2.1.0) 安裝檔**](https://github.com/yaotingshiu/WowAutoAFK_Releases/raw/refs/heads/main/WowAutoAFK%20installer.exe?download=)<br><br>
 > 💻 **【系統環境需求】**
 > 本程式基於 **.NET 10** 框架開發。若您的電腦尚未安裝此環境，請無須擔心！
   首次開啟程式時，系統會自動跳出安全提示，並無縫引導您前往微軟官方完成一鍵下載與安裝。
-
+<br><br>
 WowAutoAFK 是一款專為《魔獸世界》玩家設計的自動化輔助工具。本程式旨在協助玩家輕鬆處理自動登入、掛機防斷以及自動釣魚等日常事務，大幅減輕遊戲中的重複性操作。
 
 本專案採用 **C# (WPF/WinForms) 與 C++** 的混合架構設計，兼顧了「高效的介面開發」與「極致的核心運算效能」：
