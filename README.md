@@ -5,6 +5,13 @@
 ![Framework](https://img.shields.io/badge/.NET-10.0-512BD4.svg)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C.svg)
 ![Status](https://img.shields.io/badge/Status-Closed_Source-red.svg)<br><br>
+
+### 💻 系統支援度 (Supported OS)
+<br><br>
+✅ **Windows 10 及以上版本** (包含 Windows 11)
+❌ **macOS**
+❌ **Linux**
+<br><br>
 [**📥 點擊這裡下載：最新 WowAutoAFK (v2.1.0) 安裝檔**](https://github.com/yaotingshiu/WowAutoAFK_Releases/raw/refs/heads/main/WowAutoAFK%20installer.exe?download=)<br><br>
 > 💻 **【系統環境需求】**
 > 本程式基於 **.NET 10** 框架開發。若您的電腦尚未安裝此環境，請無須擔心！
