@@ -418,7 +418,7 @@ If this tool has saved you time, consider buying the developer a coffee! Your su
 
 ### 專案資訊 (Project Information)：
 *   **專案名稱 (Project Name)**：WowAutoAFK
-*   **版本 (Version)**：v2.2.0
+*   **版本 (Version)**：v2.2.1
 *   **開發者 (Developer)**：許耀庭 (HsuYaoTing)
 *   **聯絡信箱 (Email)**：[speed132454@gmail.com](mailto:speed132454@gmail.com)
 *   **微信 (WeChat)**：ting0427mei
